@@ -35,3 +35,6 @@ Preferred bike types among members vary over time, with different bikes leading 
 Weekday Ridership Patterns:
 Casual ridership peaks during weekends, particularly on Saturdays, with a significant increase compared to weekdays. This suggests that weekends attract more recreational or leisurely biking activities among casual riders.
 In contrast, member ridership remains relatively stable throughout the week, with no significant fluctuations observed between weekdays and weekends. Members may use Cyclistic bikes more consistently for commuting or regular transportation purposes, regardless of the day of the week.
+
+![total ride hour of the day](https://github.com/mashoodsyed66/Cyclist-Case-Study/assets/65015378/25fa40d4-c145-4aa5-867d-47e5f65603d3)
+![weekday](https://github.com/mashoodsyed66/Cyclist-Case-Study/assets/65015378/96ca4bd7-6f76-4a25-85b2-cfd6f937154e)
